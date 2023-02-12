@@ -38,6 +38,6 @@ To obtain the starter code for this assignment (this repo) on your local machine
 
 1. Run the final cell of `hw1.ipynb`. This should generate a zip file called `submission.zip`.
 
-2. Upload `submission.zip` as your solution to the `HW1: Regular Expressions` assignment in [CS375's Gradescope](https://www.gradescope.com/courses/506455). 
+2. Upload `submission.zip` as your solution to the `Homework 1: Spam via Regular Expressions` assignment in [CS 375's Gradescope](https://www.gradescope.com/courses/506455). 
 
 
