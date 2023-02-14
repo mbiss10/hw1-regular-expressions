@@ -32,7 +32,7 @@ To obtain the starter code for this assignment (this repo) on your local machine
 
 5. *Optional but recommended:* We provide a tutorial on regular expressions in Python in `regular_expressions_tutorial.ipynb`. From the Jupyter notebook file explorer window that opens, click on the `regular_expressions_tutorial.ipynb` file to open it and browse. 
 
-6. When you are ready to start the assignement click on `hw1.ipynb` from the Jupyter notebook file explore window that opens. Edit the notebook and craft your solutions to the assignment. 
+6. When you are ready to start the assignment click on `hw1.ipynb` from the Jupyter notebook file explore window that opens. Edit the notebook and craft your solutions to the assignment. 
 
 # Submitting your work 
 
